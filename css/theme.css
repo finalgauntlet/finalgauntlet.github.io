@@ -121,7 +121,7 @@ a:hover,a:focus {
 	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('https://finalgauntlet.github.io/img/SplashScreen1.png');
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
-	background-size:100% 90%;
+	background-size:100% 97%;
 	-o-background-size:cover;
 }
 .intro .intro-body {
